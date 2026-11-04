@@ -5,7 +5,7 @@
   "version": "1.1.0",
   "displayName": "Skill Doc Formatter | ClawHub",
   "description": "Formats SKILL.md (OpenClaw/Cursor skill docs) for optimal display on ClawHub. Produces a consistent structure -- Description, Installation, Usage with benefit-focused examples, and Commands -- so skill pages are clear and scannable.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "icon": "file-text",
   "color": "#2ecc71",
   "tags": [
